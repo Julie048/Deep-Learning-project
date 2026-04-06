@@ -9,4 +9,6 @@ The aim of this project is to build a deep learning model to predict whether a t
 - **Baseline_model.ipynb** : an SVM model which acts as a baseline model for the project 
 - **Main_model.ipynb** : the deep learning model
 - **Pictures** : pictures of some outputs of the code used in the report
-- **Models** : the models tested so far
+- **Models** : some of the models tested so far (only the firsts and each epoch of the final model)
+- **df_test_new.csv** : A dataset of new tweets I manually collected to test my model 
+
